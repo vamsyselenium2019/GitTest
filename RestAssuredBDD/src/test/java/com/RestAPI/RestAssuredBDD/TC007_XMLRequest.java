@@ -20,7 +20,7 @@ public class TC007_XMLRequest {
 			.log().all();
 			
 
-		System.out.println("HELLO ");
+		System.out.println("HELLO SD");
 
 
 
