@@ -22,7 +22,6 @@ public class TC007_XMLRequest {
 
 		System.out.println("hai krishna hello vamsi krisshna");
 
-		System.out.println("hai krishna hello vamsy");
 
 	}
 }
