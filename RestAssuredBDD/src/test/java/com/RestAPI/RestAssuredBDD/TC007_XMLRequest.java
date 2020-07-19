@@ -19,8 +19,7 @@ public class TC007_XMLRequest {
 			//.body(hasXPath("/CUSTOMER/ID"), equalTo("15"))
 			.log().all();
 			
-
-		System.out.println("HEY");
+		System.out.println("HELLO ");
 
 
 
